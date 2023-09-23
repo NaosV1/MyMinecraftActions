@@ -1,0 +1,4 @@
+name: MyMinecraftActions
+version: '${project.version}'
+main: fr.naos.myminecraftactions.MyMinecraftActions
+api-version: 1.20
